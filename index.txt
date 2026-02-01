@@ -1,0 +1,10 @@
+GitHub Desktop Demonstration
+
+This repository is created to demonstrate:
+- Creating a local Git repository
+- Adding files to the repository
+- Staging and committing changes
+- Pushing changes to GitHub
+- Pulling updates from the remote repository
+
+Created by: Shivam Garg
